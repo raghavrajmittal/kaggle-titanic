@@ -24,7 +24,7 @@ Make predictions
 
 ### TODO :
  - Fill in null values in Age (mean or median maybe)
- - Fill in null values in Fair
+ - Fill in null values in fare
  - Make Embarked a categorical variable (see if it helps)
  - Maybe use name somehow
 
