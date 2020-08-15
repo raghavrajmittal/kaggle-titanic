@@ -1,5 +1,5 @@
 # Titanic: Machine Learning from Disaster
-Code for the Titanic Challenge on Kaggle, where the goal is predict which passengers survived the Titanic shipwreck.
+Code for the Titanic Challenge on Kaggle, where the goal is to predict which passengers survived the Titanic shipwreck.
 
 
 ### The Challenge
