@@ -14,21 +14,10 @@ From the competition homepage:
 > Using the patterns you find in the train.csv data, predict whether the other 418 passengers on board (found in `test.csv`) survived.
 
 
-### Current Process:
-
-- Picking out a subset of relevant attributes to train on
-- Run RandomizedSearchCV and GridSearchCV to get the best hyper-parameters for a Random Forest Classifier
-- Train best model on all data, make predictions and submit!
-Make predictions
+### Current Process
+Basic design follows from the [data Science Framework ](https://github.com/raghavrajmittal/helpful/blob/master/data-science.md). Currently using a Random Forest Classifier.
 
 
-### TODO :
- - Fill in null values in Age (mean or median maybe)
- - Fill in null values in fare
- - Make Embarked a categorical variable (see if it helps)
- - Maybe use name somehow
-
-
-
-### Authors
-Raghav Raj Mittal, Nihal Shah
+### TODO
+ - Make title categories, fare bins, and age bins of test set match that of the training set
+ - if needed, scale input data using StandardScaler
