@@ -15,9 +15,5 @@ From the competition homepage:
 
 
 ### Current Process
-Basic design follows from the [data Science Framework ](https://github.com/raghavrajmittal/helpful/blob/master/data-science.md). Currently using a Random Forest Classifier.
+Basic design follows from this [data Science framework](https://github.com/raghavrajmittal/helpful/blob/master/data-science.md). Currently using a Random Forest Classifier.
 
-
-### TODO
- - Make title categories, fare bins, and age bins of test set match that of the training set
- - if needed, scale input data using StandardScaler
